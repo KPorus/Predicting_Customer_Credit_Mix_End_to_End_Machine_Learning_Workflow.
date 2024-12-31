@@ -1,5 +1,6 @@
-﻿# Predicting_Customer_Credit_Mix_End_to_End_Machine_Learning_Workflow.
 
+﻿# Predicting_Customer_Credit_Mix_End_to_End_Machine_Learning_Workflow.
+(Colab Link) [https://colab.research.google.com/drive/1a2d98veKANzFDCmqjiIteoOO0Hx5cLD7?usp=sharing]
 
  Based on the provided classification reports and ROC curves, here are some insights and actionable recommendations to improve outcomes or address any gaps identified during the project:
 
