@@ -1,8 +1,9 @@
 
 ﻿# Predicting_Customer_Credit_Mix_End_to_End_Machine_Learning_Workflow.
- <br/>
+ <br/><br/>
+## ⚠️ Warning Because of large file size. Please go to collab for code view
 [Colab Link](https://colab.research.google.com/drive/1a2d98veKANzFDCmqjiIteoOO0Hx5cLD7?usp=sharing)
-<br/>
+<br/><br/>
  Based on the provided classification reports and ROC curves, here are some insights and actionable recommendations to improve outcomes or address any gaps identified during the project:
 
 ### Insights from the Classification Reports and ROC Curves
@@ -15,7 +16,7 @@
 2. **Decision Tree Performance**:
    - The Decision Tree model has a slightly lower overall accuracy of 0.84.
    - Precision, recall, and F1-score for each class are also balanced but generally lower than those of the Random Forest model.
-   - The ROC curve for Decision Tree shows a good AUC (0.9479), but it is lower than that of the Random Forest model.
+   - The ROC curve for the Decision Tree shows a good AUC (0.9479), but it is lower than that of the Random Forest model.
 
 3. **Logistic Regression and SVM Performance**:
    - Both Logistic Regression and SVM models show competitive performance with high AUC values (0.9295 and 0.9048, respectively).
